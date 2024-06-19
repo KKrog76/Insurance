@@ -1,5 +1,6 @@
 Final | Integrated Project for Explore AI
-  1. Problem Statement | DOC
+  1. Problem Statement |
+     a.How can we effectively target underrepresented age groups and states to increase the number of new customers?
   2. Sourcing Data | XLXS
   3. Cleaning Data in Jupyter | CSV
   4. Adding Features in Jupyter | CSV
